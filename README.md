@@ -18,10 +18,8 @@ The research explored how meaningful transit analytics can be published while pr
 
 ---
 
-## 📌 Project Workflow
-
 <p align="center">
-  <img src="images/workflow.png" alt="Project Workflow" width="850">
+  <img src="./images/workflow.png" alt="Privacy-Preserving Transit Analytics Workflow" width="850">
 </p>
 ---
 
