@@ -21,7 +21,6 @@ The research explored how meaningful transit analytics can be published while pr
 <p align="center">
   <img src="./images/workflow.png" alt="Privacy-Preserving Transit Analytics Workflow" width="850">
 </p>
----
 
 ## 🎯 Business Problem
 
