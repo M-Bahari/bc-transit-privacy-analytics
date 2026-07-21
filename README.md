@@ -3,8 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Differential Privacy](https://img.shields.io/badge/Differential%20Privacy-Research-blue)
 ![Transit Analytics](https://img.shields.io/badge/Domain-Transit%20Analytics-success)
+![Real-World Project](https://img.shields.io/badge/Real--World-Project-brightgreen)
+![Industry Collaboration](https://img.shields.io/badge/Industry-Collaboration-orange)
 ![University of Victoria](https://img.shields.io/badge/University-Victoria-red)
-![BC Transit](https://img.shields.io/badge/Partner-BC%20Transit-green)
 
 ### A Case Study on BC Transit
 **M.Sc. Thesis | University of Victoria**
