@@ -18,6 +18,13 @@ The research explored how meaningful transit analytics can be published while pr
 
 ---
 
+## 📌 Project Workflow
+
+<p align="center">
+  <img src="images/workflow.png" alt="Project Workflow" width="850">
+</p>
+---
+
 ## 🎯 Business Problem
 
 Public transit agencies collect large volumes of smart card data that can provide valuable insights into passenger travel behavior, service planning, and operational decision-making.
