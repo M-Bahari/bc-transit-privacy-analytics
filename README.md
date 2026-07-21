@@ -1,4 +1,4 @@
-# 🚌 A Differential Privacy-Preserving Data Publishing Algorithm for Bus Trajectory Analysis
+# 🚌 Bus Trajectory Analysis Using Differential Privacy
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Differential Privacy](https://img.shields.io/badge/Differential%20Privacy-Research-blue)
@@ -7,6 +7,7 @@
 ![BC Transit](https://img.shields.io/badge/Partner-BC%20Transit-green)
 
 ### A Case Study on BC Transit
+**M.Sc. Thesis | University of Victoria**
 
 This repository documents my M.Sc. research project completed at the University of Victoria in collaboration with BC Transit.
 
